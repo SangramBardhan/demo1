@@ -1,1 +1,2 @@
 s This is my first code into git
+this is the second line to the code
